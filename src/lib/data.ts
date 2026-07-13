@@ -2,11 +2,11 @@ export const personal = {
   name: "Davin Falih Ramadhan",
   fullName: "Davin Falih Ramadhan",
   title: "Full Stack Web Developer",
-  tagline: "Saya membangun aplikasi web yang aman, maintainable, dan responsif menggunakan teknologi modern. Prioritas saya adalah deliveri yang reliable dan dukungan jangka panjang.",
+  tagline: "Fullstack Web Developer — Membangun aplikasi web modern dengan ekosistem JavaScript/TypeScript, dari frontend hingga backend.",
   description:
-    "Halo! Saya Davin Falih Ramadhan, seorang Full Stack Web Developer yang saat ini menempuh pendidikan di SMK Telkom Malang jurusan Rekayasa Perangkat Lunak dengan kelas expertise Full Stack Web Developer.",
+    "Halo! Saya Davin Falih Ramadhan, siswa Rekayasa Perangkat Lunak (RPL) dari SMK Telkom Malang dengan spesialisasi Fullstack Web Developer. Memiliki keahlian kuat dalam membangun aplikasi web modern menggunakan ekosistem JavaScript/TypeScript.",
   extendedBio:
-    "Saya memiliki pengalaman membangun aplikasi web menggunakan Node.js, PHP, Laravel di sisi backend, serta HTML, CSS, JavaScript, dan Tailwind CSS di sisi frontend. Untuk database, saya menguasai MySQL dan PostgreSQL. Saya juga mengelola deployment dan hosting agar project berjalan lancar dari awal hingga production.",
+    "Saya memiliki keahlian kuat dalam membangun aplikasi web modern menggunakan ekosistem JavaScript/TypeScript, mulai dari frontend (React & Next.js) hingga backend (Node.js, Express, Nest.js). Terbiasa berkolaborasi dalam tim menggunakan Git dan berkomitmen penuh untuk menghadirkan kode yang bersih, efisien, dan performan.",
   photo: "/profile.jpeg",
   location: "Indonesia",
   email: "davinfalih8@gmail.com",
@@ -27,16 +27,18 @@ export const stats = [
 ]
 
 export const aboutChips = [
-  "Full Stack Development",
-  "Web Application",
-  "Deployment & Hosting",
+  "Fullstack Development",
+  "JavaScript & TypeScript",
+  "React & Next.js",
+  "Node.js & Express",
+  "RESTful API",
 ]
 
 export const coreStrengths = [
-  { title: "Backend", tech: "Node.js, PHP, Laravel" },
-  { title: "Frontend", tech: "HTML, CSS, JS, Tailwind" },
+  { title: "Frontend", tech: "React, Next.js, HTML, CSS" },
+  { title: "Backend", tech: "Node.js, Express, Nest.js" },
   { title: "Database", tech: "MySQL, PostgreSQL" },
-  { title: "Ops", tech: "Hosting, domain, Cloudflare" },
+  { title: "Languages", tech: "JavaScript, TypeScript" },
 ]
 
 export const projects = [
@@ -193,11 +195,11 @@ export const workExperience = [
 ]
 
 export const techStack = {
-  Frontend: ["HTML", "CSS", "JavaScript", "Tailwind CSS"],
-  Backend: ["Node.js", "PHP", "Laravel"],
+  Languages: ["JavaScript", "TypeScript"],
+  Frontend: ["React", "Next.js", "HTML", "CSS"],
+  Backend: ["Node.js", "Express", "Nest.js"],
   Database: ["MySQL", "PostgreSQL"],
-  "DevOps & Deployment": ["Hosting", "Domain", "Cloudflare"],
-  Tools: ["Git", "GitHub", "VS Code", "Figma"],
+  "Tools & Others": ["Git", "GitHub", "RESTful API"],
 }
 
 export const contacts = [
