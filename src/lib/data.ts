@@ -177,7 +177,7 @@ export const workExperience = [
     id: 1,
     role: "Intern – Web Developer (PKL)",
     company: "PT KANO TEKNOLOGI UTAMA (EACIIT)",
-    period: "2025 — Sekarang",
+    period: "2026 -2027",
     description:
       "Melaksanakan Praktik Kerja Lapangan (PKL) sebagai Web Developer. Berpengalaman dalam pengembangan aplikasi web berbasis di Jalan Imam Bonjol No.120, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur. Dibimbing langsung oleh Pak Andik/Ujiek.",
     icon: "code",
@@ -187,7 +187,7 @@ export const workExperience = [
     id: 2,
     role: "Full Stack Web Developer — Tim Pengembangan TEFA",
     company: "SMK Telkom Malang",
-    period: "2026 — Sekarang",
+    period: "2026",
     description:
       "Terpilih oleh guru pembimbing mata pelajaran RPL untuk mengembangkan website Teaching Factory (TEFA) guna mendukung kebutuhan operasional dan promosi sekolah. Berkolaborasi dalam tim beranggotakan 5 orang yang terdiri dari Front-End Developer, Back-End Developer, dan UI/UX Designer — merancang dan membangun sistem dari tahap konsep hingga deployment. Saya berkontribusi penuh dalam pengembangan backend dan integrasi frontend, memastikan sistem yang dibangun scalable, user-friendly, dan siap pakai oleh pihak sekolah.",
     icon: "users",
