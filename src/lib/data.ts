@@ -13,7 +13,7 @@ export const personal = {
   phone: "+62 857-4696-4546",
   whatsapp: "https://wa.me/6285746964546",
   instagram: "https://instagram.com/ddaavvin",
-  linkedin: "https://linkedin.com/in/davinfalih",
+  linkedin: "https://www.linkedin.com/in/davin-falih-ramadhan-3baaa1326/",
   github: "https://github.com/davinfalih",
   cvUrl: "/cv-davin.pdf",
   website: "https://davinfalih.dev",
