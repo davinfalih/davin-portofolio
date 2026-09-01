@@ -218,16 +218,6 @@ export const education = [
 export const workExperience = [
   {
     id: 1,
-    role: "Intern – Web Developer (PKL)",
-    company: "PT KANO TEKNOLOGI UTAMA (EACIIT)",
-    period: "2026 -2027",
-    description:
-      "Melaksanakan Praktik Kerja Lapangan (PKL) sebagai Web Developer. Berpengalaman dalam pengembangan aplikasi web berbasis di Jalan Imam Bonjol No.120, DR. Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur. Dibimbing langsung oleh Pak Andik/Ujiek.",
-    icon: "code",
-    contact: "Pak Andik/Ujiek - 081332602222/081332237829",
-  },
-  {
-    id: 2,
     role: "Full Stack Web Developer — Tim Pengembangan TEFA",
     company: "SMK Telkom Malang",
     period: "2026",
@@ -236,7 +226,7 @@ export const workExperience = [
     icon: "users",
   },
   {
-    id: 3,
+    id: 2,
     role: "JobMatch — INFINITERA 2.0 Web Development Competition",
     company: "JobMatch",
     period: "Agustus 2026 - September 2026",
