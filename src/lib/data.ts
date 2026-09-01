@@ -103,6 +103,20 @@ export const projects = [
   },
   {
     id: 5,
+    title: "JobMatch",
+    subtitle: "Web Development Competition",
+    tech: [
+      { name: "React.js", color: "#4285F4" },
+      { name: "JavaScript", color: "#fbbc05" },
+      { name: "Tailwind CSS", color: "#34a853" },
+    ],
+    image: "/jobmatch.png",
+    liveUrl: "https://system-career-webdev.vercel.app/",
+    description: "Platform pencarian kerja modern yang dirancang untuk membantu pencari kerja menemukan peluang karir yang relevan secara cepat dan efisien. Dibangun dengan React.js, JavaScript, dan Tailwind CSS, menghasilkan pengalaman pencarian kerja yang responsif dan mudah digunakan di berbagai perangkat.",
+    btnColor: "#4285F4",
+  },
+  {
+    id: 6,
     title: "Blog Platform",
     subtitle: "Technology Blog & Digital Platform",
     tech: [
@@ -116,7 +130,7 @@ export const projects = [
     btnColor: "#ea4335",
   },
   {
-    id: 6,
+    id: 7,
     title: "Cashier System",
     subtitle: "Point of Sale Application for Retail",
     tech: [
