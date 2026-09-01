@@ -231,7 +231,7 @@ export const workExperience = [
     company: "JobMatch",
     period: "Agustus 2026 - September 2026",
     description:
-      "Mengembangkan front-end aplikasi JobMatch menggunakan React.js dan JavaScript, dengan Tailwind CSS untuk menghasilkan tampilan yang modern, responsif, dan konsisten di berbagai perangkat. Saya bertanggung jawab membangun antarmuka pencarian kerja yang intuitif — mulai dari halaman beranda, tampilan detail lowongan, hingga halaman pencarian yang responsif — serta mengintegrasikan tampilan dengan API backend menggunakan RESTful API untuk menampilkan data lowongan secara real-time. Seluruh proses pengembangan dilakukan secara kolaboratif dalam tim, meliputi perancangan komponen UI yang reusable, optimasi performa halaman, serta pengujian lintas perangkat untuk memastikan pengalaman pengguna yang lancar dan mudah digunakan.",
+      "Mengembangkan websites untuk aplikasi JobMatch menggunakan React.js dan JavaScript, dengan Tailwind CSS untuk menghasilkan tampilan yang modern, responsif, dan konsisten di berbagai perangkat. Saya bertanggung jawab membangun antarmuka pencarian kerja yang intuitif — mulai dari halaman beranda, tampilan detail lowongan, hingga halaman pencarian yang responsif — serta mengintegrasikan tampilan dengan API backend menggunakan RESTful API untuk menampilkan data lowongan secara real-time. Seluruh proses pengembangan dilakukan secara kolaboratif dalam tim, meliputi perancangan komponen UI yang reusable, optimasi performa halaman, serta pengujian lintas perangkat untuk memastikan pengalaman pengguna yang lancar dan mudah digunakan.",
     icon: "code",
   },
 ]
