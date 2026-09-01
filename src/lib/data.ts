@@ -235,6 +235,15 @@ export const workExperience = [
       "Terpilih oleh guru pembimbing mata pelajaran RPL untuk mengembangkan website Teaching Factory (TEFA) guna mendukung kebutuhan operasional dan promosi sekolah. Berkolaborasi dalam tim beranggotakan 5 orang yang terdiri dari Front-End Developer, Back-End Developer, dan UI/UX Designer — merancang dan membangun sistem dari tahap konsep hingga deployment. Saya berkontribusi penuh dalam pengembangan backend dan integrasi frontend, memastikan sistem yang dibangun scalable, user-friendly, dan siap pakai oleh pihak sekolah.",
     icon: "users",
   },
+  {
+    id: 3,
+    role: "JobMatch — INFINITERA 2.0 Web Development Competition",
+    company: "JobMatch",
+    period: "Agustus 2026 - September 2026",
+    description:
+      "JobMatch dirancang untuk mengatasi tantangan pencari kerja dalam menemukan peluang karir yang relevan secara cepat dan efisien. Platform ini menyajikan pengalaman pencarian kerja yang modern, responsif, dan mudah digunakan di berbagai perangkat.",
+    icon: "code",
+  },
 ]
 
 export const techStack = {
