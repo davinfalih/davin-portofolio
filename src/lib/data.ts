@@ -117,6 +117,20 @@ export const projects = [
   },
   {
     id: 6,
+    title: "Nexus",
+    subtitle: "Coworking Space & Booking",
+    tech: [
+      { name: "React.js", color: "#4285F4" },
+      { name: "JavaScript", color: "#fbbc05" },
+      { name: "Tailwind CSS", color: "#34a853" },
+    ],
+    image: "/coworking.png",
+    liveUrl: "https://websites-coworking.vercel.app/sign-in",
+    description: "Platform coworking space yang menyediakan sistem reservasi ruang kerja secara online. Dilengkapi fitur autentikasi pengguna, booking space instan, check-in berbasis QR code, serta informasi fasilitas lengkap seperti akses 24/7, internet berkecepatan tinggi, dan ruang meeting privat.",
+    btnColor: "#34a853",
+  },
+  {
+    id: 7,
     title: "Blog Platform",
     subtitle: "Technology Blog & Digital Platform",
     tech: [
@@ -130,7 +144,7 @@ export const projects = [
     btnColor: "#ea4335",
   },
   {
-    id: 7,
+    id: 8,
     title: "Cashier System",
     subtitle: "Point of Sale Application for Retail",
     tech: [
